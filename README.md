@@ -7,6 +7,6 @@ Our Team page-Ready
 
 Master Branch is under deployement of github pages.
 
- Edited just for demo
+ Edited just for demo..
 
 
